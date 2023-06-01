@@ -1,6 +1,6 @@
 ### Ola! eu sou o Henrique Sales👋
 ### Tecnologias que eu uso no meu dia a dia 
-  ![Henrique Sales](https://github-readme-stats.vercel.app/api?username=henry-ssh&show_icons=true&theme=dracula)
+ 
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
